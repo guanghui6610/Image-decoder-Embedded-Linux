@@ -20,3 +20,8 @@
 五、演示视频：  
 https://www.bilibili.com/video/BV1p5yaBuEMr/?spm_id_from=333.1387.list.card_archive.click&vd_source=b193ce94c6c97ca3ca3bbabe904e8981
 --------------------------------------------------------------------------
+六、串口操作：
+1. cd /lib/modules/4.1.15
+2. depmod
+3. modprobe gt9147.ko
+4. ./imageplayer
